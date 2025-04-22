@@ -112,3 +112,4 @@ And honestly? That’s more than I can say for most of the gear I’ve tried.
 >Follow him on Instagram — [@catchsidsub](https://www.instagram.com/catchsidsub/)  
 >*Images/Videos by @catchsidsub in Delhi NCR. All rights reserved.*
 
+
