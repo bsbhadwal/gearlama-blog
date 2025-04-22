@@ -26,6 +26,7 @@ I slept like the dead.
 
 Well — almost.
 
+
 At some point in the night, thunder rolled but the skies held. I rolled over. Later, laughter pierced the quiet. A man — probably the one I'd been warned about — was muttering and pacing. He stared at me. I stared back. My best stern face. My best evil eye. It worked. He wandered off. I checked my bike from my bivvy — still locked. All good.
 
 At 5 AM, my alarm buzzed. I moved through my morning with practiced quiet — toilet, pack bags, check wallet, phone, roll up bivy. My legs felt heavy, but the road was calling.

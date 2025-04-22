@@ -42,6 +42,7 @@ At first glance, the BC26R looks like a flashlight reimagined for the handlebar.
 
 The bronze-accented power button is tactile and satisfying. The fins on the sides help with grip and heat dissipation. The slide-rail mount system is built into the flat underside, offering stability. The USB-C port is tucked under a thick rubber flap. It charges fast, and more importantly, it means **one cable for all devices** on a bikepacking trip.
 
+
 And of course, it's built to last. IP68 waterproof. Shockproof. Dustproof. Monsoon-tested. Mountain-washed. Ladakh-hardened.
 
 ---
@@ -65,6 +66,8 @@ I’ve ridden with the BC26R in snow, in slush, through three months of uninterr
 I've pressure-washed it after rides. Dropped it. Left it charging in the tent vestibule while it rained outside. It's shrugged it all off.
 
 ### It's Reliable
+
+I've pressure-washed it after rides. Dropped it. Left it charging in the tent vestibule while it rained outside. It's shrugged it all off.
 
 On two separate overnighters, I used the 600-lumen mode continuously for over seven hours. On one ride, I used the turbo mode briefly for a descent — runtime was still a remarkable 7h:10m.
 

@@ -1,4 +1,4 @@
-baseurl: https://example.com/
+baseurl: https://blog.gearlama.com/
 languageCode: en-in
 # theme: hugo-theme-stack
 title: Gearlama Blog
@@ -42,7 +42,9 @@ services:
         shortname: "hugo-theme-stack"
     # GA Tracking ID
     googleAnalytics:
-        id:
+        id: G-8304H2K5NB
+
+enableRobotsTXT: true
 
 pagination:
     pagerSize: 6
