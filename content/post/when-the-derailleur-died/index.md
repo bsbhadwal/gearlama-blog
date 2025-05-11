@@ -1,13 +1,13 @@
 +++ 
 title = "When the Derailleur Died, I Dreamed of Rohloff"
-date = 2025-05-07
+date = 2025-05-11
 categories = ["Stories"]
 tags = ["rohloff", "bikepacking", "sach pass", "gear failure", "touring india"]
 slug = "when-the-derailleur-died"
 image = "broken-derailleur-hero.webp"
 description = "A reflective journey through mechanical failure, high mountain silence, and the promise of a Rohloff future — where gear fades and grit remains."
 keywords = ["Rohloff hub India", "bikepacking gear failure", "touring derailleur broken", "Sach Pass cycling", "internal hub vs derailleur"]
-draft = true
+draft = false
 +++
 
 Somewhere near **Sach Pass**, the derailleur cracked.
