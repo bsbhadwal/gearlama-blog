@@ -13,7 +13,7 @@ I’ve ridden bikes that were fast, bikes that were light, bikes that made you f
 
 But I’ve never ridden a bike that asked nothing of me, except to keep going.
 
-The **Posst Oberon** isn’t a gravel bike, though you could take it where most gravel bikes wouldn’t dare. It’s not a touring bike in the old-fashioned sense either — not unless you think touring means crossing continents with quiet confidence. It’s something rarer. A bicycle built with no apologies. Designed for distance. For dust. For silence.
+The [**Posst Oberon**](https://www.posst.bike/oberon) isn’t a gravel bike, though you could take it where most gravel bikes wouldn’t dare. It’s not a touring bike in the old-fashioned sense either — not unless you think touring means crossing continents with quiet confidence. It’s something rarer. A bicycle built with no apologies. Designed for distance. For dust. For silence.
 
 And I didn’t pick it from a catalogue of bikes — not really. I picked it because it felt like the kind of bike I’d want to write poetry about.
 
@@ -39,7 +39,7 @@ There’s no derailleur. No cable stretch. No missed shifts when the trail turns
 
 What there is: a [**Rohloff Speedhub 500/14**](https://www.rohloff.de/en/products/speedhub), mated to a [**Gates CDX Carbon Belt Drive**](https://www.gatescarbondrive.com/products/cdx) — 50T up front, 20T at the rear. What this means on the road is simple: **absolute silence**. Shifting that feels like thought. No chain grease. No clatter.
 
-And here's something worth knowing: to receive full warranty from Rohloff when paired with a Gates Carbon Drive, a frame must pass a stiffness certification test. The Oberon is one of the few in India that does. It’s officially tested and approved — which means: silence, yes. But also confidence.
+And here's something worth knowing: to receive full warranty from Rohloff when paired with a Gates Carbon Drive, a frame must pass a stiffness certification test. The Oberon is the only bicycle in India that does. It’s officially tested and approved — which means: silence, yes. But also confidence.
 
 The **crank** is a 170mm S550, the **bottom bracket** a 68mm MegaExo. The **cockpit is** [**DEDA Zero1**](https://www.dedaelementi.com/zero1/). Everything feels just right — not flashy, just purposeful. It doesn’t try to impress. It tries to last.
 
@@ -73,7 +73,7 @@ But I needed this one.
 
 ---
 
-The **Oberon**, with its full touring setup — racks, fenders, dynamo lighting, kickstand, and more — comes in at ₹3.10 lakhs.  
+The [**Oberon**](https://www.posst.bike/oberon), with its full touring setup — racks, fenders, dynamo lighting, kickstand, and more — comes in at ₹3.10 lakhs.  
 **Posst ships across India.**
 
 > *Oberon’s next ride? Let's just say it's headed somewhere high, remote, and full of sky.  
